@@ -8,4 +8,5 @@ async def main() -> None:
 
 
 if __name__ == '__main__':
-    Runner().run(main())
+    async with Runner() as runner:
+        runner.run(main())
