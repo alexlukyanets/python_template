@@ -2,11 +2,13 @@
 
 ### To-Do:
 1. **Configuration:**
-   - Mark directory as source root
-   - Mark directory as resources root
+- [ ] Mark directory as source root
+- [ ] Mark directory as resources root
+
 
 2. **Documentation:**
    - Update README to enhance its appearance and clarity
+
 
 3. **Dependency Management:**
    - Install Poetry:
