@@ -17,5 +17,5 @@
      ```
    - Install project dependencies with Poetry:
      ```bash
-     poetry install
+     poetry install --no-root
      ```
